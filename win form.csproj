@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <RootNamespace>win_form</RootNamespace>
+    <Nullable>enable</Nullable>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <ProjectGuid>{8BA48AA6-5291-4F4E-99EE-0BC47DBC631A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Custom.DemoCuCustomWndAPIWrap</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="QRCoder" Version="1.5.1" />
+    <PackageReference Include="System.Management" Version="5.0.0" />
+    <Reference Include="CuCustomWndAPIWrapNET6">
+      <HintPath>libs\CuCustomWndAPIWrapNET6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Printing" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="CuCustomWndAPI.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+
+
+</Project>

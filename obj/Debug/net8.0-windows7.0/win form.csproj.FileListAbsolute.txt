@@ -1,0 +1,42 @@
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\win form.exe
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\win form.deps.json
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\win form.runtimeconfig.json
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\win form.dll
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\win form.pdb
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\QRCoder.dll
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\System.Management.dll
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\CuCustomWndAPIWrapNET6.dll
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.csproj.Up2Date
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.dll
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\refint\win form.dll
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.pdb
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\ref\win form.dll
+C:\Users\Matheus\Desktop\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\CuCustomWndAPI.dll
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\CuCustomWndAPI.dll
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\win form.exe
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\win form.deps.json
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\win form.runtimeconfig.json
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\win form.dll
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\win form.pdb
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\QRCoder.dll
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\System.Management.dll
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\bin\Debug\net8.0-windows7.0\CuCustomWndAPIWrapNET6.dll
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.csproj.Up2Date
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.dll
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\refint\win form.dll
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.pdb
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\win form.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\WinForm-main\WinFormVKP-main\WinFormVKP-main\obj\Debug\net8.0-windows7.0\ref\win form.dll
